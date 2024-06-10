@@ -39,5 +39,5 @@ x1 = 2.0
 x2 = 1.0
 ```
 
-##Thanks
+## Thanks
 Special thanks to the esteemed Professor **Hamidreza Abbaszadeh Darban** for his invaluable contributions and guidance.
