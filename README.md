@@ -1,5 +1,5 @@
 # Hi-Quadratic-
-![alt text](![image](https://github.com/amir13872/Hi-Quadratic-/assets/83335541/3e190036-7f5d-466d-8c90-32102df67875)
+(![image](https://github.com/amir13872/Hi-Quadratic-/assets/83335541/3e190036-7f5d-466d-8c90-32102df67875)
 
 # Quadratic Equation Solver and Graph Plotter
 
