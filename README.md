@@ -20,6 +20,7 @@ To install the required dependencies, use the following commands:
 ```sh
 pip install numpy matplotlib cmath platform
 ```
+Run
 ```sh
 python ax.py
 ```
